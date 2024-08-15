@@ -1,0 +1,30 @@
+<style>
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+</style>
+<h1 id="tableLabel">Employer Data</h1>
+<table>
+  <thead style="background-color:gray">
+    <tr>
+      <td>EmployeeName</td>
+      <td>Total Time In Month</td>
+      <td>Actions</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let dt of employerdata" [ngStyle]="{'background-color': (dt.TotalTime<100) ? 'orange' : 'white'}">
+      <td>{{ dt.EmployeeName }}</td>
+      <td>{{ dt.TotalTime }}</td>
+      <td><a href="#">Edit</a></td>
+    </tr>
+  </tbody>
+</table>

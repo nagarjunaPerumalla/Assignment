@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kvenka53\\source\\repos\\AngularProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA76ABC-F953-42F6-93BF-FCA2FF63308A}|AngularProject1\\AngularProject1.esproj|c:\\users\\kvenka53\\source\\repos\\angularproject1\\angularproject1\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBA76ABC-F953-42F6-93BF-FCA2FF63308A}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA76ABC-F953-42F6-93BF-FCA2FF63308A}|AngularProject1\\AngularProject1.esproj|c:\\users\\kvenka53\\source\\repos\\angularproject1\\angularproject1\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{CBA76ABC-F953-42F6-93BF-FCA2FF63308A}|AngularProject1\\AngularProject1.esproj|solutionrelative:angularproject1\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\kvenka53\\source\\repos\\AngularProject1\\AngularProject1\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\kvenka53\\source\\repos\\AngularProject1\\AngularProject1\\src\\app\\app.component.ts",
+              "RelativeToolTip": "AngularProject1\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-15T05:14:52.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\kvenka53\\source\\repos\\AngularProject1\\AngularProject1\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "AngularProject1\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\kvenka53\\source\\repos\\AngularProject1\\AngularProject1\\src\\app\\app.component.html",
+              "RelativeToolTip": "AngularProject1\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-15T05:13:47.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
